@@ -1,4 +1,4 @@
 augroup CJSX
   au!
-  autocmd BufNewFile,BufRead *.csx,*.cjsx set filetype=coffee
+  autocmd BufNewFile,BufRead *.csx,*.cjsx,*.cjsx.coffee set filetype=cjsx.coffee
 augroup END
